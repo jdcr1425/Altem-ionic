@@ -1,0 +1,51 @@
+<ion-header>
+
+ <link href="https://fonts.googleapis.com/css?family=Playfair+Display" rel="stylesheet">
+
+</ion-header>
+
+
+<br><br>
+
+<div text-center>
+<img  src="assets/imgs/logo.png" width="160" height="160">
+
+</div>
+
+
+
+
+<p class="big" text-center >ALTEM</p>
+
+<ion-row>
+
+
+<ion-item class="prueba">
+    <ion-label color="primary" stacked>Codigo</ion-label>
+    <ion-input  type="text" placeholder="T00012345" [(ngModel)]="userData.code"></ion-input>
+  </ion-item>
+</ion-row>
+
+
+  <ion-row>
+  <ion-item class="prueba">
+    <ion-label color="primary" stacked>Contraseña</ion-label>
+    <ion-input  type="password" placeholder="******" [(ngModel)]="userData.password"></ion-input>
+  </ion-item>
+  </ion-row>
+
+
+
+<br><br>
+
+<ion-row>
+  <ion-col text-center>
+   <button ion-button (click)="login()">Iniciar sesion</button>
+  </ion-col>
+</ion-row>
+
+<div *ngIf="isLogged=='error';">
+  <p text-center>Error! Datos incorrectos.</p>
+</div>
+
+

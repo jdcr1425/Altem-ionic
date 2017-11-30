@@ -1,0 +1,40 @@
+<ion-header>
+  <ion-navbar hideBackButton>
+    <!-- <ion-buttons start>
+      <button ion-button icon-only>
+        <ion-icon name="contact"></ion-icon>
+      </button>
+    </ion-buttons> -->
+
+    <ion-buttons start>
+      <button ion-button (click)="doConfirm()">
+        Enviar
+      </button>
+    </ion-buttons>
+    <ion-buttons end>
+      <button ion-button (click)="doCancel()">
+        Cancelar
+      </button>
+    </ion-buttons>
+  </ion-navbar>
+</ion-header>
+
+<ion-content>
+
+  <ion-list>
+    <ion-item *ngFor="let st of students">
+    <!--   <ion-avatar item-left>
+         <img [src]="'http://savio.utbvirtual.edu.co/user/external_render_pic.php?user=uws1&pass=uws1&wsusername= '".concat( {{ st.ID }} )/>
+      <img [src]="'http://savio.utbvirtual.edu.co/user/external_render_pic.php?user=uws1&pass=uws1&wsusername=T00026138'"/>
+      </ion-avatar> -->
+      <ion-label class="tam">{{ st.NOMBRES }}&nbsp;{{ st.APELLIDOS }}<br>{{ st.ID }}</ion-label>
+
+      <ion-checkbox></ion-checkbox>
+
+
+
+    </ion-item>
+  </ion-list>
+
+
+</ion-content>
