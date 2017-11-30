@@ -87,9 +87,13 @@ Ionic es una herramienta, gratuita y open source, para el desarrollo de aplicaci
 ```cd myApp ionic serve```
 
 ### 4. Interfaz.
-* ```Login: Ingresa usuario y contraseña.```
+* **Login: Ingresa usuario y contraseña.**
 imagen2
 
-* ```Vista principal que tiene un menú para tomar asistencia, ver estadisticas y el perfil del usuario.```
+* **Vista principal que tiene un menú para tomar asistencia, ver estadisticas y el perfil del usuario.**
 imagen3
-* ```Al dar click en TOMAR ASISTENCIA se despliega los estudiantes de la clase```
+
+* **Al dar click en TOMAR ASISTENCIA se despliega los estudiantes de la clase**
+imagen4
+
+* **Selección de estudiantes que asistieron a clase.**
