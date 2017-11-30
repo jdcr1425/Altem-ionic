@@ -88,10 +88,10 @@ Ionic es una herramienta, gratuita y open source, para el desarrollo de aplicaci
 
 ### 4. Interfaz.
 * **Login: Ingresa usuario y contraseña.**
-![alt text](https://github.com/jdcr1425/Altem-ionic/blob/master/doc/imagenes1.png)
+![login](https://github.com/jdcr1425/Altem-ionic/blob/master/doc/imagenes1.png)
 
 * **Vista principal que tiene un menú para tomar asistencia**
-!(https://github.com/jdcr1425/Altem-ionic/blob/master/doc/imagenes2.png)
+![estudiantes](https://github.com/jdcr1425/Altem-ionic/blob/master/doc/imagenes2.png)
 
 * **Cerrar sesión.** 
-!(https://github.com/jdcr1425/Altem-ionic/blob/master/doc/imagenes3.png)
+![cerrar](https://github.com/jdcr1425/Altem-ionic/blob/master/doc/imagenes3.png)
