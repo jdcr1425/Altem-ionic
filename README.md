@@ -76,7 +76,7 @@ Estos son algunas de los problemas que MAE pretende encarar mediante la gestió
 imagen1
 
 ### 3. Ionic
-**a. ¿Quees?**
+**a. ¿Que es?**
 Ionic es una herramienta, gratuita y open source, para el desarrollo de aplicaciones híbridas basadas en HTML5, CSS y JS. Está construido con Sass y optimizado con AngularJS.
 
 * **Instalar**
@@ -92,3 +92,6 @@ Ionic es una herramienta, gratuita y open source, para el desarrollo de aplicaci
 * ```Login:Ingresa usuario y contraseña.```
 imagen3
 
+* ```Vista principal que tiene un menú para tomar asistencia, ver estadisticas y el perfil del usuario.```
+imagen 4
+* ```Al dar click en TOMAR ASISTENCIA se despliega los estudiantes de la clase```
