@@ -94,4 +94,4 @@ Ionic es una herramienta, gratuita y open source, para el desarrollo de aplicaci
 ![estudiantes](https://github.com/jdcr1425/Altem-ionic/blob/master/doc/imagenes2.png)
 
 * **Cerrar sesión.** 
-![cerrar](https://github.com/jdcr1425/Altem-ionic/blob/master/doc/imagenes3.png)
+* ![cerrar](https://github.com/jdcr1425/Altem-ionic/blob/master/doc/imagenes3.png)
