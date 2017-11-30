@@ -1,24 +1,24 @@
 # Altem-ionic
 
-##1. Requerimientos
+##1.Requerimientos
 * Requerimientosfuncionales
 * Requerimientos No funcionales
 * Idea General del Proyecto
 * Objetivos
 * ProblemaaSolucionar
 
-##2. Node.js
+##2.Node.js
 * ¿Quées?
 * Descargar
 * Instalación
 
-##3. Ionic
+##3.Ionic
 * ¿Quées?
 * Instalación
 * Crear proyecto
 * Ejecutar la aplicación
 
-##4. Interfaz
+##4.Interfaz
 * Login
 * Vistaprincipal
 * Click en asistencia
