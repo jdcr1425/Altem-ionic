@@ -96,4 +96,5 @@ imagen3
 * **Al dar click en TOMAR ASISTENCIA se despliega los estudiantes de la clase**
 imagen4
 
-* **Selección de estudiantes que asistieron a clase.**
+* **Selección de estudiantes que asistieron a clase.** 
+imag 5
