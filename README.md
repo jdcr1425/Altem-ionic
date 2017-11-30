@@ -70,9 +70,8 @@ Estos son algunas de los problemas que MAE pretende encarar mediante la gestió
 * **¿Que es?** Node.js es un entorno en tiempo de ejecución multiplataforma, de código abierto, para la capa del servidor (pero no limitándose a ello) basado en el lenguaje de programación ECMAScript, asíncrono, con I/O de datos en una arquitectura orientada a eventos y basado en el motor V8 de Google. Fue creado con el enfoque de ser útil en la creación de programas de red altamente escalables, como por ejemplo, servidores web.
 
 * **Descargar e instalar Node js**
-``` [web de Node js](https://github.com/PurpleBooth)
+[web de Node js](https://nodejs.org/en/)
 https://nodejs.org/es/download/package-manager/
-```
 imagen1
 
 ### 3. Ionic
