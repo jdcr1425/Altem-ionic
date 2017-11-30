@@ -47,7 +47,7 @@ asistencias e inasistencias de un estudiante en cada una de las clases
 durante un periodo el cual debe ser seleccionado
 * El docente podrá ver el perfil de estudiante y la cantidad de inasistencias
 
-```Requerimientos no funcionales```
+**Requerimientos no funcionales**
 * El tiempo de consulta y recepción de datos debe ser óptimo teniendo
 en cuenta que las horas de clases deben ser aprovechadas al máximo
 * El sistema debe permitir realizar las selecciones como (asistencias,
@@ -55,14 +55,14 @@ inasistencia y excusas) de la forma más cómoda para el docente.
 
 ```Idea General del proyecto:``` Manejo de Asistencia Estudiantil ```MAE``` , sistema para el control de asistencias a los estudiantes de la UTB.
 
-### Objetivos:
+**Objetivos:**
 Brindar facilidad y aprovechamiento de la tecnología para realizar el control de asistencia en los salones de clase.
 Realizar seguimiento a los estudiantes mediante la toma de asistencia para evaluación de rendimiento y disminuir las faltas a clase de los estudiantes.
 Innovar la metodología de toma de asistencias agilizando el proceso para así tener mejor rendimiento de la hora de las horas de clase.
 
-```Problema a Enfrentar:``` Se encuentra establecido en el manual de convivencia estudiantil, que una de las razones fuertes para que un estudiante pierda los créditos de una materia matriculada en un periodo especifico es la inasistencia, sin embargo por muchas razones inherentes al mismo proceso de toma de asistencia como: la metodología, tiempo invertido etc, en la mayoría de las cosas este control no se lleva a cabo.
+**Problema a Enfrentar:** Se encuentra establecido en el manual de convivencia estudiantil, que una de las razones fuertes para que un estudiante pierda los créditos de una materia matriculada en un periodo especifico es la inasistencia, sin embargo por muchas razones inherentes al mismo proceso de toma de asistencia como: la metodología, tiempo invertido etc, en la mayoría de las cosas este control no se lleva a cabo.
 De esa manera es imposible reflejar estadísticas de asistencias e inasistencias, así mismo no es posible apoyar un estudiante si no hay forma de determinar las razones por las cuales en muchas ocasiones falta a clases.
 Estos son algunas de los problemas que MAE pretende encarar mediante la gestión que descrita en los requerimientos.
 
-```Procedimiento de Instalación y prueba:``` A continuación se muestran detalles sobre el leguaje de programación utilizado, dependencias y proceso de instalación.
+**Procedimiento de Instalación y prueba:** A continuación se muestran detalles sobre el leguaje de programación utilizado, dependencias y proceso de instalación.
 
