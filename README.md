@@ -47,7 +47,7 @@ asistencias e inasistencias de un estudiante en cada una de las clases
 durante un periodo el cual debe ser seleccionado
 * El docente podrá ver el perfil de estudiante y la cantidad de inasistencias
 
-Requerimientos no funcionales```
+```Requerimientos no funcionales```
 * El tiempo de consulta y recepción de datos debe ser óptimo teniendo
 en cuenta que las horas de clases deben ser aprovechadas al máximo
 * El sistema debe permitir realizar las selecciones como (asistencias,
