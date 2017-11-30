@@ -13,7 +13,7 @@
 * Instalación
 
 ### 3. Ionic
-* ¿Quées?
+* ¿Qué es?
 * Instalación
 * Crear proyecto
 * Ejecutar la aplicación
