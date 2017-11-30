@@ -8,7 +8,7 @@
 * Problema a Solucionar
 
 ### 2. Node.js
-* ¿Quées?
+* ¿Qué es?
 * Descargar
 * Instalación
 
@@ -20,10 +20,10 @@
 
 ### 4. Interfaz
 * Login
-* Vistaprincipal
+* Vista principal
 * Click en asistencia
-* Seleccióndeestudiantes
-* Confirmarasistencia
+* Selección de estudiantes
+* Confirmar asistencia
 * Cerrar sesión
 
 ```Definición general del proyecto:``` Se trata de un aplicativo móvil construido bajo estructura IONIC y sus dependencias, con el fin de llevar a cabo el control de asistencias digitalmente en las aulas de clase. El sistema permitirá a un docente consultar el listado de los estudiantes matriculados en el curso que tiene asignado en una hora específica donde podrá seleccionar o marca las siguientes opciones: estudiante asistió a clase, estudiante no asistió a clase o estudiante con excusa.
