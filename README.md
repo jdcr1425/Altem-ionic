@@ -69,25 +69,23 @@ Estos son algunas de los problemas que MAE pretende encarar mediante la gestió
 ### 2. Node.js
 * **¿Que es?** Node.js es un entorno en tiempo de ejecución multiplataforma, de código abierto, para la capa del servidor (pero no limitándose a ello) basado en el lenguaje de programación ECMAScript, asíncrono, con I/O de datos en una arquitectura orientada a eventos y basado en el motor V8 de Google. Fue creado con el enfoque de ser útil en la creación de programas de red altamente escalables, como por ejemplo, servidores web.
 
-**b. Descargar**
-* Ingresa a la página https://nodejs.org/en/
+* **Descargar e instalar Node js**
+```Ingresa a la página https://nodejs.org/en/
+ **a** https://nodejs.org/es/download/package-manager/
+```
 imagen1
-
-**c. Instalación**
-*Dar siguiente y aceptar los términos y condiciones
-imagen2
 
 ### 3. Ionic
 **a. ¿Quees?**
 Ionic es una herramienta, gratuita y open source, para el desarrollo de aplicaciones híbridas basadas en HTML5, CSS y JS. Está construido con Sass y optimizado con AngularJS.
 
-**b. Instalar**
+* **Instalar**
 ```npm install -g cordova ionic```
 
-**c. Crear proyecto**
+* **Crear proyecto**
 ```ionic start myApp```
 
-**d. Ejecutar la aplicación**
+* **Ejecutar la aplicación**
 ```cd myApp ionic serve```
 
 ### 4. Interfaz.
