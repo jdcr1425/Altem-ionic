@@ -47,9 +47,9 @@ durante un periodo el cual debe ser seleccionado
 * El docente podrá ver el perfil de estudiante y la cantidad de inasistencias
 
 ###1.1 Requerimientos no funcionales
-*El tiempo de consulta y recepción de datos debe ser óptimo teniendo
+* El tiempo de consulta y recepción de datos debe ser óptimo teniendo
 en cuenta que las horas de clases deben ser aprovechadas al máximo
-*El sistema debe permitir realizar las selecciones como (asistencias,
+* El sistema debe permitir realizar las selecciones como (asistencias,
 inasistencia y excusas) de la forma más cómoda para el docente.
 
 ```Idea General del proyecto:``` Manejo de Asistencia Estudiantil ```MAE``` , sistema para el control de asistencias a los estudiantes de la UTB.
