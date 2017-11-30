@@ -71,7 +71,7 @@ Estos son algunas de los problemas que MAE pretende encarar mediante la gestió
 
 * **Descargar e instalar Node js** - 
  [web de Node js](https://nodejs.org/en/) - 
-[npm]https://nodejs.org/es/download/package-manager/
+[npm](https://nodejs.org/es/download/package-manager/)
 
 imagen1
 
