@@ -73,8 +73,6 @@ Estos son algunas de los problemas que MAE pretende encarar mediante la gestió
  [web de Node js](https://nodejs.org/en/) - 
 [npm](https://nodejs.org/es/download/package-manager/)
 
-imagen1
-
 ### 3. Ionic
 **a. ¿Que es?**
 Ionic es una herramienta, gratuita y open source, para el desarrollo de aplicaciones híbridas basadas en HTML5, CSS y JS. Está construido con Sass y optimizado con AngularJS.
@@ -89,9 +87,9 @@ Ionic es una herramienta, gratuita y open source, para el desarrollo de aplicaci
 ```cd myApp ionic serve```
 
 ### 4. Interfaz.
-* ```Login:Ingresa usuario y contraseña.```
-imagen3
+* ```Login: Ingresa usuario y contraseña.```
+imagen2
 
 * ```Vista principal que tiene un menú para tomar asistencia, ver estadisticas y el perfil del usuario.```
-imagen 4
+imagen3
 * ```Al dar click en TOMAR ASISTENCIA se despliega los estudiantes de la clase```
