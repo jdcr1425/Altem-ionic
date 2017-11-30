@@ -1,11 +1,11 @@
 # Altem-ionic
 
 ### 1. Requerimientos
-* Requerimientosfuncionales
+* Requerimientos funcionales
 * Requerimientos No funcionales
 * Idea General del Proyecto
 * Objetivos
-* ProblemaaSolucionar
+* Problema a Solucionar
 
 ### 2. Node.js
 * ¿Quées?
@@ -29,6 +29,7 @@
 ```Definición general del proyecto:``` Se trata de un aplicativo móvil construido bajo estructura IONIC y sus dependencias, con el fin de llevar a cabo el control de asistencias digitalmente en las aulas de clase. El sistema permitirá a un docente consultar el listado de los estudiantes matriculados en el curso que tiene asignado en una hora específica donde podrá seleccionar o marca las siguientes opciones: estudiante asistió a clase, estudiante no asistió a clase o estudiante con excusa.
 
 ### 1. Requerimientos 
+```Requerimientos funcionales```
 * Especificación de los requerimientos del sistema
 * Realizar un aplicativo móvil bajo estructura de programación IONIC
 * El sistema debe permitir realizar el Login de los profesores para acceder a
@@ -46,7 +47,7 @@ asistencias e inasistencias de un estudiante en cada una de las clases
 durante un periodo el cual debe ser seleccionado
 * El docente podrá ver el perfil de estudiante y la cantidad de inasistencias
 
-### 1.1 Requerimientos no funcionales
+Requerimientos no funcionales```
 * El tiempo de consulta y recepción de datos debe ser óptimo teniendo
 en cuenta que las horas de clases deben ser aprovechadas al máximo
 * El sistema debe permitir realizar las selecciones como (asistencias,
